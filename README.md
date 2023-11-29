@@ -10,7 +10,7 @@
   *   Predicting whether SpaceX will reuse the first stage of their rocket launches. [Here](https://github.com/Jesutimilehin-Onayemi/Capstone-Project)
   *   Playing it smart in the wellness industry by analyzing smart device fitness data to help unlock new growth opportunities for Bellabeat. [Here](https://github.com/Jesutimilehin-Onayemi/Playing-it-Smart-in-the-Wellness-Industry-with-Data-Science)
 - Some of my other projects are:
-- *   Building classification algorithms such as; Linear Regression, KNN, Decision Trees, Logistic Regression, SVM to predict whether there will be rainfall the following day
+- *   Building algorithms such as; Linear Regression, KNN, Decision Trees, Logistic Regression, SVM to predict whether there will be rainfall the following day
 
 <!---
 Jesutimilehin-Onayemi/Jesutimilehin-Onayemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
