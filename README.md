@@ -12,6 +12,7 @@
 - Some of my other projects are:
   *   Building algorithms such as; Linear Regression, KNN, Decision Trees, Logistic Regression, SVM to predict whether there will be rainfall the following day. [Click here](https://github.com/Jesutimilehin-Onayemi/Rain-prediction-in-Australia-with-Machine-Learning)
   *   Predicting Health care costs for people using Neural Networks. [Click here](https://github.com/Jesutimilehin-Onayemi/Predicting-Healthcare-costs-for-people-using-Neural-Networks)
+- [Click here](https://github.com/Jesutimilehin-Onayemi/Analysis-of-Spotify-Music-data-for-the-2010s) to view the Analysis of Spotify music data to discover trends, patterns and relationships using R programming language
 
 <!---
 Jesutimilehin-Onayemi/Jesutimilehin-Onayemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
