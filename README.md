@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jesutimilehin-Onayemi
 - 👀 I’m interested in Data Science, Machine Learning and AI
 - 🌱 I’m currently learning Data Science, ML and AI
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects, I like exploring datasets to find patterns and I'm always working on something, feel free to contact me and involve me in any of your projects.
 - 📫 How to reach me jesutimilehinonayemi@gmail.com or reach me through my socials
 
 - ## My Projects
